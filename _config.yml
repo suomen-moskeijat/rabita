@@ -1,0 +1,10 @@
+# Suomen Islamilainen Yhdyskunta (Rabita) – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Suomen Islamilainen Yhdyskunta (Rabita)"
+description: "Suomen Islamilainen Yhdyskunta (Rabita), Lönnrotinkatu 22 A 5, 00120 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: suomen-islamilainen-yhdyskunta-rabita     # tiedosto _moskeijat/suomen-islamilainen-yhdyskunta-rabita.md
+
+# Osoite: https://suomen-moskeijat.github.io/rabita/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/rabita"
